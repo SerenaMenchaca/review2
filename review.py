@@ -18,3 +18,7 @@
 # Remember how range can be used to create the list [2,4,6,8]
 # When complete, commit to github and submit a pull request!
 
+for i in range(2,9,2):
+    print i
+if i == 8:
+    print "Who do we appreciate?"
